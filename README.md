@@ -4,13 +4,16 @@ Airdrop photos to Mac is convinence but the photos are often to have random name
 
 ## Compile commands
 Steps to compile to Jar executable file
+
 In VS code termial, go to "src" folder 
 
 Complie to class file from *.java files
-javac *.java
+
+"javac *.java"
 
 Complie to jar executable from *.class files
-jar -cvmf  myfile.mf Photosort.jar *.class
+
+"jar -cvmf  myfile.mf Photosort.jar *.class"
 
 
 

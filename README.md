@@ -1,5 +1,5 @@
 ## Overview
-Airdrop photos to Mac is convinence but the photos are often to have random names.  This tool is designed to group the photos by the creation date. 
+Airdrop photos to Mac is convenient but the photos are often to have random names.  This tool is designed to group the photos by the creation date. 
 
 
 ## Compile commands
